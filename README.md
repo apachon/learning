@@ -1,4 +1,4 @@
-# learning ![](https://hits.dwyl.com/amitness/learning.svg)
+# Learning que es gereundio
 
 
 <p align="center">
@@ -10,6 +10,21 @@
 - [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)
 - [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
 - [Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
+
+
+### SAP
+- [x] [openSAP: Introduction to SAP Fiori UX](https://open.sap.com/courses/fiori1/items/r3CcpSvm3zhCSCZopQgJw)
+- [x] [openSAP: Leadership in Digital Transformation](https://open.sap.com/courses/ldt1-tl/items/3GmRYztjxlCkaaAm1nAVff)
+- [x] [openSAP: Introduction to Statistics for Data Science](https://open.sap.com/courses/ds0/items/2gnMoXGQOrY1DGN6lfg9xW)
+- [x] [openSAP: The Internet of Things with SAP](https://open.sap.com/courses/iot4/items/Jj6x7HS0SHAnSJoqIgwhK/quiz_submission/5Ufosvjp3Fo4ZeDSMa6LfA?highest_score=true)
+- [x] [openSAP: How to Build Bots with SAP Intelligent Robotic Process Automation (Edition Q2/2020)](https://open.sap.com/courses/rpa2-1/items/6QlxdTT6GE8rDs60uC5x8n/quiz_submission/qTTNZADBuRXpAt2nd7gGc)
+- [x] [openSAP: What’s New with Bot Building in SAP Intelligent RPA](https://open.sap.com/courses/rpa4/items/3e2DQsnPzLCETPQkb8WUmj)
+- [x] openSAP: SAP Data Intelligence for Enterprise AI
+- [x] openSAP: SAP Intelligent Robotic Process Automation in a Nutshell
+- [x] openSAP: Business Process Automation in SAP S/4HANA with SAP Intelligent RPA
+- [x] openSAP: Freedom of Data with SAP Data Hub
+- [x] openSAP: SAP Fiori Overview: Design, Develop and Deploy
+
 
 ### Develop a business acumen
 - [ ] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
@@ -58,7 +73,7 @@
 - [x] [Podcast itnig: Bootstrapping millones de euros con juegos matemáticos y Javier Arroyo](https://itnig.net/podcast/138_Bootstrapping_millones_de_euros_con_juegos_matemticos_y_Javier_Arroyo/)
 
 ### Fast.ai: Deep Learning for Coders
-- [x] [Fast.ai: Deep Learning for Coder (20219)](https://course.fast.ai/)
+- [x] [Fast.ai: Deep Learning for Coder (2019)](https://course.fast.ai/)
     - [x] [Lesson 1](https://course19.fast.ai/videos/?lesson=1)
     - [x] [Lesson 2](https://course19.fast.ai/videos/?lesson=2)
     - [x] [Lesson 3](https://course19.fast.ai/videos/?lesson=3)
