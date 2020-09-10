@@ -13,11 +13,11 @@
 - [x] [openSAP: The Internet of Things with SAP](https://open.sap.com/courses/iot4/items/Jj6x7HS0SHAnSJoqIgwhK)
 - [x] [openSAP: How to Build Bots with SAP Intelligent Robotic Process Automation (Edition Q2/2020)](https://open.sap.com/courses/rpa2-1/items/6QlxdTT6GE8rDs60uC5x8n)
 - [x] [openSAP: What’s New with Bot Building in SAP Intelligent RPA](https://open.sap.com/courses/rpa4/items/3e2DQsnPzLCETPQkb8WUmj)
-- [x] openSAP: SAP Data Intelligence for Enterprise AI
-- [x] openSAP: SAP Intelligent Robotic Process Automation in a Nutshell
-- [x] openSAP: Business Process Automation in SAP S/4HANA with SAP Intelligent RPA
-- [x] openSAP: Freedom of Data with SAP Data Hub
-- [x] openSAP: SAP Fiori Overview: Design, Develop and Deploy
+- [x] [openSAP: SAP Data Intelligence for Enterprise AI](https://open.sap.com/courses/di1)
+- [x] [openSAP: SAP Intelligent Robotic Process Automation in a Nutshell](https://open.sap.com/courses/rpa1)
+- [x] [openSAP: Business Process Automation in SAP S/4HANA with SAP Intelligent RPA](https://open.sap.com/courses/rpa3)
+- [x] [openSAP: Freedom of Data with SAP Data Hub](https://open.sap.com/courses/hub1)
+- [x] [openSAP: SAP Fiori Overview: Design, Develop and Deploy](https://open.sap.com/courses/fiori3)
 
 
 ### Develop a business acumen
