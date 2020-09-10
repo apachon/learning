@@ -1,23 +1,17 @@
-# Learning que es gereundio
+# Learning que es gerundio
 
 
 <p align="center">
   <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
 </p>
 
-**Learning Philosophy**: 
-- [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
-- [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)
-- [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
-- [Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
-
 
 ### SAP
 - [x] [openSAP: Introduction to SAP Fiori UX](https://open.sap.com/courses/fiori1/items/r3CcpSvm3zhCSCZopQgJw)
 - [x] [openSAP: Leadership in Digital Transformation](https://open.sap.com/courses/ldt1-tl/items/3GmRYztjxlCkaaAm1nAVff)
 - [x] [openSAP: Introduction to Statistics for Data Science](https://open.sap.com/courses/ds0/items/2gnMoXGQOrY1DGN6lfg9xW)
-- [x] [openSAP: The Internet of Things with SAP](https://open.sap.com/courses/iot4/items/Jj6x7HS0SHAnSJoqIgwhK/quiz_submission/5Ufosvjp3Fo4ZeDSMa6LfA?highest_score=true)
-- [x] [openSAP: How to Build Bots with SAP Intelligent Robotic Process Automation (Edition Q2/2020)](https://open.sap.com/courses/rpa2-1/items/6QlxdTT6GE8rDs60uC5x8n/quiz_submission/qTTNZADBuRXpAt2nd7gGc)
+- [x] [openSAP: The Internet of Things with SAP](https://open.sap.com/courses/iot4/items/Jj6x7HS0SHAnSJoqIgwhK)
+- [x] [openSAP: How to Build Bots with SAP Intelligent Robotic Process Automation (Edition Q2/2020)](https://open.sap.com/courses/rpa2-1/items/6QlxdTT6GE8rDs60uC5x8n)
 - [x] [openSAP: What’s New with Bot Building in SAP Intelligent RPA](https://open.sap.com/courses/rpa4/items/3e2DQsnPzLCETPQkb8WUmj)
 - [x] openSAP: SAP Data Intelligence for Enterprise AI
 - [x] openSAP: SAP Intelligent Robotic Process Automation in a Nutshell
