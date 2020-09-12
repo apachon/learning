@@ -18,6 +18,9 @@
 - [x] [openSAP: Business Process Automation in SAP S/4HANA with SAP Intelligent RPA](https://open.sap.com/courses/rpa3)
 - [x] [openSAP: Freedom of Data with SAP Data Hub](https://open.sap.com/courses/hub1)
 - [x] [openSAP: SAP Fiori Overview: Design, Develop and Deploy](https://open.sap.com/courses/fiori3)
+- [ ] [Building Apps with the ABAP RESTful Application Programming Model](https://open.sap.com/courses/cp13)
+- [ ] [Use SAP AI Business Services to Kick-Start Your Intelligent Processes](https://open.sap.com/courses/sapai1)
+- [ ] [How to Build Chatbots with SAP Conversational AI](https://open.sap.com/courses/cai1) 
 
 
 ### Develop a business acumen
@@ -709,22 +712,6 @@
 	- [x] Large Scale Machine Learning
 	- [x] Application Example: Photo OCR
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Be able to implement models in scikit-learn
 - [ ] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 - [ ] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
@@ -1174,7 +1161,7 @@
     - [ ] [[PART 2] Insincere Question Classification with PyTorch](https://www.youtube.com/watch?v=m3JGRoNSdqE) `0:33:53`
     - [ ] [[PART 3] Insincere Question Classification with PyTorch](https://www.youtube.com/watch?v=-bfYCBznJ6s) `0:23:49`
     - [ ] [[PART 4] Insincere Question Classification with PyTorch](https://www.youtube.com/watch?v=e9CxGeQZTVA) `0:14:25`
-
+- [x] [Podcast: Software2.0 - GPT-3 - Preguntas y Respuestas](https://anchor.fm/sw20/episodes/GPT-3---Preguntas-y-Respuestas-eh6r93)
 
 ### Be able to model graphs and network data
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
