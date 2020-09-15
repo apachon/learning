@@ -67,7 +67,9 @@
 	- [ ] [Designing Your Customer Experience & Case Studies](https://www.youtube.com/watch?v=CRz0pn3N5bs) `0:07:32`
 - [ ] [Youtube: Webinars From The Future | Session One: Design Thinking](https://youtu.be/DDYo8Wmy60c)
 - [ ] [Youtube: Webinars From The Future | Session Two: Interaction Design](https://youtu.be/snUT7_XRW6Q)
-- [x] [Podcast itnig: Bootstrapping millones de euros con juegos matemáticos y Javier Arroyo](https://itnig.net/podcast/138_Bootstrapping_millones_de_euros_con_juegos_matemticos_y_Javier_Arroyo/)
+- [x] [Podcast Itnig: Bootstrapping millones de euros con juegos matemáticos y Javier Arroyo](https://itnig.net/podcast/138_Bootstrapping_millones_de_euros_con_juegos_matemticos_y_Javier_Arroyo/)
+- [x] [Podcast Itnig: Los inicios de VOLAVA con Joel Balague](https://itnig.net/podcast/125_Los_inicios_de_VOLAVA_con_Joel_Balague/)
+- [x] [Podcast Itnig: Emprender en Silicon Valley con RevenueCat y Miguel Carranza](https://itnig.net/podcast/157_Emprender_en_Silicon_Valley_con_RevenueCat_y_Miguel_Carranza/)
 
 ### Fast.ai: Deep Learning for Coders
 - [x] [Fast.ai: Deep Learning for Coder (2019)](https://course.fast.ai/)
@@ -312,7 +314,6 @@
 - [ ] [Paper: Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
 - [ ] [Paper: Temporal Ensembling for Semi-Supervised Learning](https://arxiv.org/abs/1610.02242)
 - [x] [Paper: Fully Convolutional Neural Network for Rapid Flood Segmentation in Synthetic Aperture Radar Imagery](https://www.mdpi.com/2072-4292/12/16/2532)
-
 - [ ] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
 - [ ] [Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 - [ ] [Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
