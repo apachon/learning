@@ -18,9 +18,9 @@
 - [x] [openSAP: Business Process Automation in SAP S/4HANA with SAP Intelligent RPA](https://open.sap.com/courses/rpa3)
 - [x] [openSAP: Freedom of Data with SAP Data Hub](https://open.sap.com/courses/hub1)
 - [x] [openSAP: SAP Fiori Overview: Design, Develop and Deploy](https://open.sap.com/courses/fiori3)
-- [ ] [Building Apps with the ABAP RESTful Application Programming Model](https://open.sap.com/courses/cp13)
-- [ ] [Use SAP AI Business Services to Kick-Start Your Intelligent Processes](https://open.sap.com/courses/sapai1)
-- [ ] [How to Build Chatbots with SAP Conversational AI](https://open.sap.com/courses/cai1) 
+- [ ] [openSAP: Building Apps with the ABAP RESTful Application Programming Model](https://open.sap.com/courses/cp13)
+- [ ] [openSAP: Use SAP AI Business Services to Kick-Start Your Intelligent Processes](https://open.sap.com/courses/sapai1)
+- [ ] [openSAP: How to Build Chatbots with SAP Conversational AI](https://open.sap.com/courses/cai1) 
 
 
 ### Develop a business acumen
