@@ -80,6 +80,13 @@
     - [x] [Lesson 5](https://course19.fast.ai/videos/?lesson=5)
     - [x] [Lesson 6](https://course19.fast.ai/videos/?lesson=6)
     - [x] [Lesson 7](https://course19.fast.ai/videos/?lesson=7)
+    - [ ] [Lesson 8](https://course19.fast.ai/videos/?lesson=8)
+    - [ ] [Lesson 9](https://course19.fast.ai/videos/?lesson=9)
+    - [ ] [Lesson 10](https://course19.fast.ai/videos/?lesson=10)
+    - [ ] [Lesson 11](https://course19.fast.ai/videos/?lesson=11)
+    - [ ] [Lesson 12](https://course19.fast.ai/videos/?lesson=12)
+    - [ ] [Lesson 13](https://course19.fast.ai/videos/?lesson=13)
+    - [ ] [Lesson 14](https://course19.fast.ai/videos/?lesson=14)
 
 - [x] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
     - [x] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
