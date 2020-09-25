@@ -123,8 +123,8 @@
 - [x] [Podcast Itnig: Los inicios de VOLAVA con Joel Balague](https://itnig.net/podcast/125_Los_inicios_de_VOLAVA_con_Joel_Balague/)
 - [x] [Podcast Itnig: Emprender en Silicon Valley con RevenueCat y Miguel Carranza](https://itnig.net/podcast/157_Emprender_en_Silicon_Valley_con_RevenueCat_y_Miguel_Carranza/)
 
-### Fast.ai: Deep Learning for Coders
-- [x] [Fast.ai: Deep Learning for Coder (2019)](https://course.fast.ai/)
+### fast.ai: Deep Learning for Coders
+- [x] [fast.ai: Deep Learning for Coder (2019)](https://course.fast.ai/)
     - [x] [Lesson 1](https://course19.fast.ai/videos/?lesson=1)
     - [x] [Lesson 2](https://course19.fast.ai/videos/?lesson=2)
     - [x] [Lesson 3](https://course19.fast.ai/videos/?lesson=3)
@@ -140,7 +140,7 @@
     - [ ] [Lesson 13](https://course19.fast.ai/videos/?lesson=13)
     - [ ] [Lesson 14](https://course19.fast.ai/videos/?lesson=14)
 
-- [x] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
+- [x] [fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
     - [x] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
     - [x] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
     - [x] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
@@ -149,6 +149,8 @@
     - [ ] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
     - [ ] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
     - [ ] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
+
+- [ ] [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 
 
 
