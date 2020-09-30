@@ -220,6 +220,7 @@
     - [ ] [Lesson 5.3: Losing the Forest for the Trees, guest lecture by Ali Alkhatib](http://ethics.fast.ai/videos/?lesson=8)
     - [ ] [Lesson 6: Algorithmic Colonialism, and Next Steps](http://ethics.fast.ai/videos/?lesson=9)
 - [x] [Book: Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality-ebook/dp/B019B6VCLO/ref=sr_1_2?dchild=1&keywords=Cathy+O%27Neil&qid=1599763769&s=digital-text&sr=1-2)
+- [ ] [Garbage In, Garbage Out: Face Recognition on Flawed Data](https://www.flawedfacedata.com/)
 
 ### Be able to annotate data efficiently
 - [ ] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
