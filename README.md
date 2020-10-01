@@ -1,4 +1,4 @@
-# Learning que es gerundio
+# Learning
 
 
 <p align="center">
@@ -145,7 +145,7 @@
     - [x] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
     - [x] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
     - [x] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
-    - [ ] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
+    - [x] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
     - [ ] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
     - [ ] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
     - [ ] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
