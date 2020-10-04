@@ -150,7 +150,7 @@
     - [ ] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
     - [ ] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
 
-- [ ] [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
+- [ ] [Book: Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 
 
 
